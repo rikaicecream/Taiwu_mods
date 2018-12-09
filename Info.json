@@ -1,0 +1,7 @@
+﻿{
+  "Id": "BossAssociateMod",
+  "DisplayName": "剑冢BOSS同道",
+  "Version": "1.1.2",
+  "AssemblyName": "BossAssociateMod.dll",
+  "EntryMethod": "BossAssociateMod.Main.Load"
+}
